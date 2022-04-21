@@ -1,0 +1,8 @@
+C:\Users\boule\Documents\Visual Studio 2019\Projects\ResourceConverter\bin\Debug\ResourceConverter.exe
+C:\Users\boule\Documents\Visual Studio 2019\Projects\ResourceConverter\bin\Debug\ResourceConverter.pdb
+C:\Users\boule\Documents\Visual Studio 2019\Projects\ResourceConverter\obj\Debug\ResourceConverter.csprojAssemblyReference.cache
+C:\Users\boule\Documents\Visual Studio 2019\Projects\ResourceConverter\obj\Debug\ResourceConverter.Form1.resources
+C:\Users\boule\Documents\Visual Studio 2019\Projects\ResourceConverter\obj\Debug\ResourceConverter.Properties.Resources.resources
+C:\Users\boule\Documents\Visual Studio 2019\Projects\ResourceConverter\obj\Debug\ResourceConverter.csproj.GenerateResource.cache
+C:\Users\boule\Documents\Visual Studio 2019\Projects\ResourceConverter\obj\Debug\ResourceConverter.exe
+C:\Users\boule\Documents\Visual Studio 2019\Projects\ResourceConverter\obj\Debug\ResourceConverter.pdb
