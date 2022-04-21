@@ -6,4 +6,4 @@ Convert NET .resources files to .resx files
 
 ### Or download the lastest release [HERE](https://github.com/bouletmarc/ResourcesConverter/releases)
 
-![alt text](https://github.com/bouletmarc/COM_Ports_Reset/blob/main/ResourceConverter_2022-04-21_07-39-28.png?raw=true)
+![alt text](https://github.com/bouletmarc/ResourcesConverter/blob/main/ResourceConverter_2022-04-21_07-39-28.png?raw=true)
